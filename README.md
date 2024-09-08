@@ -22,8 +22,9 @@
 
 <h3>Installation</h3>
 <p>To install the project, follow these steps:</p>
-<pre><code>git clone https://github.com/your-username/multiple-video-player.git
-cd multiple-video-player
+<pre><code>git clone https://github.com/your-username/youtube-views-app
+
+cd youtube-views-app
 npm install
 npm start
 </code></pre>
