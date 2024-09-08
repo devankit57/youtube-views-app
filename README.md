@@ -39,7 +39,7 @@ npm start
 </ol>
 
 <h2>File Structure</h2>
-<pre><code>multiple-video-player/
+<pre><code>youtube-views-app/
 │
 ├── public/
 │   └── index.html
@@ -71,7 +71,6 @@ npm start
 <h2>Contributing</h2>
 <p>If you would like to contribute to this project, feel free to open a pull request or submit an issue. All contributions are welcome!</p>
 
-<h2>License</h2>
-<p>This project is open-source and available under the <a href="https://opensource.org/licenses/MIT" target="_blank">MIT License</a>.</p>
+
 
 
