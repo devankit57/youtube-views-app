@@ -1,0 +1,71 @@
+/* Container styling */
+.App {
+  text-align: center;
+  padding: 20px;
+  
+}
+
+/* Full width image with height auto */
+.banner-image {
+  width: 100%;
+  height: auto;
+  margin-bottom: 20px;
+  border-radius: 20px;
+}
+
+/* Title styling */
+h1 {
+  margin-bottom: 20px;
+  font-size: 2em;
+  color: #333;
+}
+
+/* Styling input fields with border-radius */
+.input-field {
+  padding: 10px;
+  margin-right: 10px;
+  border: 2px solid #ccc;
+  border-radius: 20px;
+  outline: none;
+}
+
+.input-field:focus {
+  border-color: #007bff;
+}
+
+/* YouTube link input box - increased width and height */
+.youtube-link {
+  width: 350px;  /* Increase the width */
+  height: 50px;  /* Increase the height */
+  font-size: 16px;  /* Adjust the font size for better readability */
+}
+
+/* Number of tabs input box - reduced width */
+.num-tabs {
+  width: 80px;
+  height: 50px;  /* Reduce the width by 80% */
+}
+
+/* Button styling */
+button {
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: white;
+  height: 50px;
+  border: none;
+  cursor: pointer;
+  border-radius: 10px; /* Adding border-radius to the button */
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+/* Grid of videos */
+.video-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+  margin-top: 20px;
+}
