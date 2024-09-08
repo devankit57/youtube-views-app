@@ -1,48 +1,6 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Multiple Video Player React App">
-    <title>README - Multiple Video Player React App</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 20px;
-            line-height: 1.6;
-        }
-        h1, h2, h3 {
-            color: #007bff;
-        }
-        pre {
-            background-color: #f4f4f4;
-            padding: 10px;
-            border-left: 5px solid #007bff;
-            overflow-x: auto;
-        }
-        img {
-            max-width: 100%;
-            height: auto;
-        }
-        code {
-            background-color: #f4f4f4;
-            padding: 2px 6px;
-            border-radius: 4px;
-            font-family: monospace;
-        }
-        a {
-            color: #007bff;
-            text-decoration: none;
-        }
-        a:hover {
-            text-decoration: underline;
-        }
-    </style>
-</head>
-<body>
 
-<h1>Multiple Video Player React App</h1>
+
+<h1>Youtube Views App</h1>
 
 <p>This is a simple React application that allows users to play multiple YouTube videos simultaneously by embedding them as iframes. Users can enter a video URL and choose how many instances of the video they want to display.</p>
 
@@ -115,5 +73,4 @@ npm start
 <h2>License</h2>
 <p>This project is open-source and available under the <a href="https://opensource.org/licenses/MIT" target="_blank">MIT License</a>.</p>
 
-</body>
-</html>
+
